@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Привет! Я Олег Зубрилин!
+**Unity Developer | Game Programmer**  
 
-<!--
-**w0nde4/w0nde4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎮 Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🕹️ Gem Miner  
+**Demo version of Gem Miner game made with Unity**  
+
+[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+![Gameplay](https://via.placeholder.com/800x400.png?text=Gameplay+Screenshot)
+
+**Особенности:**  
+- ⚡ Процедурная генерация уровней  
+- 💎 Система инвентаря и улучшений  
+- 🎯 Оптимизация под мобильные устройства  
+
+---
+
+### 🚀 SpacewarLike  
+**Training top-down shooter like spacewar**  
+
+[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+![Gameplay](https://via.placeholder.com/800x400.png?text=Spacewar+Gameplay)
+
+**Особенности:**  
+- 🤖 ИИ противников с патрулированием  
+- 🔫 Система оружия с апгрейдами  
+- ⭐ Физика движения корабля  
+
+**[🎥 Video Demo](https://via.placeholder.com/800x400.png?text=Spacewar+Youtube)** | **[📁 Source Code](/spacewarlike)**
+
+---
+
+## 🛠️ Мой стек технологий
+
+**Game Development:**  
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![ShaderLab](https://img.shields.io/badge/ShaderLab-8A2BE2)
+
+**Programming:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 📊 Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w0nde4&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w0nde4&layout=compact&theme=radical)
+
+---
+
+## 📫 Как со мной связаться
+
+- **📧 Email:** oleg7kmmravg@gmail.com    
+
+*🔥 Готов к интересным проектам и сотрудничеству!*
