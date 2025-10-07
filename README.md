@@ -29,7 +29,7 @@
 - 🔫 Система оружия с апгрейдами  
 - ⭐ Физика движения корабля  
 
-**[🎥 Video Demo]([https://via.placeholder.com/800x400.png?text=Spacewar+Youtube](https://youtu.be/ACwoBz6jULk))** | **[📁 Source Code](/spacewarlike)**
+**[🎥 Video Demo](<video src='https://youtu.be/ACwoBz6jULk' width=180/>)** | **[📁 Source Code](/spacewarlike)**
 
 ---
 
