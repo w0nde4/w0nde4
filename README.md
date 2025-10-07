@@ -5,16 +5,18 @@
 
 ## 🎮 Мои проекты
 
-### 🕹️ Gem Miner  
-**Demo version of Gem Miner game made with Unity**  
+### 🕹️ Uplat  
+**Platformer with abilities made with Unity**  
 
 [![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 **Особенности:**  
-- ⚡ Процедурная генерация уровней  
+- ⚡ Комплексный контроллер персонажа  
 - 💎 Система инвентаря и улучшений  
-- 🎯 Оптимизация под мобильные устройства  
+- 🎯 Behavior Tree врагов
+
+**[🎥 Video Demo](https://youtu.be/U9t9eO6UIus)**
 
 ---
 
@@ -29,7 +31,7 @@
 - 🔫 Система оружия с апгрейдами  
 - ⭐ Физика движения корабля  
 
-**[🎥 Video Demo](<video src='https://youtu.be/ACwoBz6jULk' width=180/>)** | **[📁 Source Code](/spacewarlike)**
+**[🎥 Video Demo](https://youtu.be/ACwoBz6jULk)**
 
 ---
 
