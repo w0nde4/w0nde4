@@ -26,7 +26,7 @@
 [![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-![Gameplay](https://via.placeholder.com/800x400.png?text=Spacewar+Gameplay)
+![Gameplay]([https://via.placeholder.com/800x400.png?text=Spacewar+Gameplay](https://youtu.be/ACwoBz6jULk))
 
 **Особенности:**  
 - 🤖 ИИ противников с патрулированием  
