@@ -11,8 +11,6 @@
 [![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-![Gameplay](https://via.placeholder.com/800x400.png?text=Gameplay+Screenshot)
-
 **Особенности:**  
 - ⚡ Процедурная генерация уровней  
 - 💎 Система инвентаря и улучшений  
@@ -26,14 +24,12 @@
 [![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-![Gameplay]([https://via.placeholder.com/800x400.png?text=Spacewar+Gameplay](https://youtu.be/ACwoBz6jULk))
-
 **Особенности:**  
 - 🤖 ИИ противников с патрулированием  
 - 🔫 Система оружия с апгрейдами  
 - ⭐ Физика движения корабля  
 
-**[🎥 Video Demo](https://via.placeholder.com/800x400.png?text=Spacewar+Youtube)** | **[📁 Source Code](/spacewarlike)**
+**[🎥 Video Demo]([https://via.placeholder.com/800x400.png?text=Spacewar+Youtube](https://youtu.be/ACwoBz6jULk))** | **[📁 Source Code](/spacewarlike)**
 
 ---
 
