@@ -1,50 +1,74 @@
-# 👋 Привет! Я Олег Зубрилин!
-**Unity Developer | Game Programmer**  
+# 👋 Олег Зубрилин  
+**Unity Developer · Game Programmer**
 
 ---
 
-## 🎮 Мои проекты
+## 🎮 Актуальные проекты
+
+### 🐙 Leviathan Loop  
+**Logistics factory-simulator prototype (Unity 6+)**
+
+![Unity](https://img.shields.io/badge/Unity-6.0+-100000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+
+**Фокус проекта:**
+- Архитектурный прототип логистического симулятора
+- Interface-driven и модульная архитектура
+- Data-driven подход (ScriptableObjects)
+- Асинхронные процессы (UniTask)
+- Инструментальный фокус: Odin Inspector, DOTween
+
+Проект находится в активной разработке и служит площадкой для отработки архитектурных решений под сложные симуляционные системы.
+
+---
 
 ### 🕹️ Uplat  
-**Platformer with abilities made with Unity**  
+**Ability-based 2D platformer (Unity)**
 
-[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
-**Особенности:**  
-- ⚡ Комплексный контроллер персонажа  
-- 💎 Система инвентаря и улучшений  
-- 🎯 Behavior Tree врагов
+**Фокус проекта:**
+- Кастомный контроллер персонажа
+- Система способностей и улучшений
+- AI противников на основе Behavior Tree
 
-**[🎥 Video Demo](https://youtu.be/U9t9eO6UIus)**
+**Демо:**  
+🎥 https://youtu.be/U9t9eO6UIus
 
 ---
 
 ### 🚀 SpacewarLike  
-**Training top-down shooter like spacewar**  
+**Top-down shooter prototype (Unity)**
 
-[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
-**Особенности:**  
-- 🤖 ИИ противников с патрулированием  
-- 🔫 Система оружия с апгрейдами  
-- ⭐ Физика движения корабля  
+**Фокус проекта:**
+- AI противников (патрулирование, преследование)
+- Модульная система оружия и апгрейдов
+- Физически ориентированное управление кораблём
 
-**[🎥 Video Demo](https://youtu.be/ACwoBz6jULk)**
+**Демо:**  
+🎥 https://youtu.be/ACwoBz6jULk
 
 ---
 
-## 🛠️ Мой стек технологий
+## 🛠️ Технологический стек
 
-**Game Development:**  
-![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![ShaderLab](https://img.shields.io/badge/ShaderLab-8A2BE2)
+**Game Development**
+- Unity (2D / 3D, URP)
+- C#
 
-**Programming:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+**Architecture & Tools**
+- ScriptableObjects (data-driven)
+- UniTask (async/await)
+- Odin Inspector & Serializer
+- DOTween
+
+**Programming**
+- Python
+- Git
 
 ---
 
@@ -56,8 +80,6 @@
 
 ---
 
-## 📫 Как со мной связаться
+## 📫 Контакты
 
-- **📧 Email:** oleg7kmmravg@gmail.com    
-
-*🔥 Готов к интересным проектам и сотрудничеству!*
+- **Email:** oleg7kmmravg@gmail.com
